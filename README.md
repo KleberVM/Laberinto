@@ -1,7 +1,5 @@
 # Laberinto
 
-![](https://cdn.pixabay.com/photo/2023/08/06/00/07/maze-8171945_1280.png)
-
 Laberinto resuelto por estrategias de busqueda sin informacion (metodo primero en profundidad) traza la primera ruta que encuentra sin importar si es la mas larga y busqueda informada (metodo busqueda A* tambien conocido como primero lo mejor ) minimiza el costo estimado total de la solucion en palabras mas simples halla la ruta mas corta
 
 ## Caracteristicas
